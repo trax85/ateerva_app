@@ -22,7 +22,7 @@ class _ForgotPageState extends State<ForgotPassPage> {
         width: double.infinity,
         decoration: const BoxDecoration(
           image: DecorationImage(
-            image: NetworkImage("https://wallpaperaccess.com/full/2727570.jpg"),
+            image: AssetImage("assets/images/bg.jpg"),
               fit: BoxFit.fill),
         ),
         child:
